@@ -1,0 +1,9 @@
+{
+    "manifest_verson": 3,
+    "version": "1.0",
+    "name": "Lead tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon_png"
+    }
+}
